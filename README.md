@@ -1,1 +1,1 @@
-# StudMgtSystem
+# A Student Management System
